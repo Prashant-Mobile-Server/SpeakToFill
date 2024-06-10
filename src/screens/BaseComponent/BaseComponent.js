@@ -23,7 +23,7 @@ const BaseComponent = () => {
     return (
         <div className="App">
             <header className="App-header">
-                <h1>EasyFill</h1>
+                <h1>SpeakToFill</h1>
             </header>
             <main>
                 <div className="container">
